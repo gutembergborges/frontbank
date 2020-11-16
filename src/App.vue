@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/capgemini-logo.svg">
-    <BankTerminal msg="Bank Terminal"/>
+    <img alt="Capgemini logo" src="./assets/capgemini-logo.svg">
+    <BankTerminal title="Terminal Bancário"/>
   </div>
 </template>
 
